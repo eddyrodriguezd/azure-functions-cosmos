@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_EXTENSION_VERSION": "~2",
+    "FUNCTIONS_WORKER_RUNTIME": "java",
+    "WEBSITE_NODE_DEFAULT_VERSION": "10.1.4",
+    "WEBSITE_RUN_FROM_PACKAGE": "1",
+    "SPRING_PROFILES_ACTIVE": "LOCAL,DEV",
+    "MAIN_CLASS": "com.inventoryapp.productadapter.ProductAdapterApplication"
+  },
+  "ConnectionStrings": {}
+}
